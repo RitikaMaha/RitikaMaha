@@ -7,14 +7,17 @@
 👋Welcome To my Github! 
 --
 <br>Passionate about Artificial Intelligence. Hands-on experience in data analytics, full stack development. My journey portrays on building impactful and user-centric solutions.
-
 <hr style="width:100%; height:1px; background-color:gray; border:none;">
 
 <br><br>🚀 About Me<br>
 --
-•💡 Machine Learning and AI Enthusiast<br>•🌱 Currently exploring:<br>  &nbsp;&nbsp;•Data analysis & visualization: Numpy,Pandas, Seaborn, Matplotlib, Tableau<br>  &nbsp;&nbsp;•ML frameworks: TensorFlow, PyTorch, scikit-learn<br>  &nbsp;&nbsp;•Full stack development<br>  &nbsp;&nbsp;•DevOps and Cloud fundamentals<br><br><br><br><br>
+-💡 Machine Learning and AI Enthusiast<br>-🌱 Currently exploring:<br>  &nbsp;&nbsp;•Data analysis & visualization: Numpy,Pandas, Seaborn, Matplotlib, Tableau<br>  &nbsp;&nbsp;•ML frameworks: TensorFlow, PyTorch, scikit-learn<br>  &nbsp;&nbsp;•Full stack development<br>  &nbsp;&nbsp;•DevOps and Cloud fundamentals<br><br><br><br><br>
 <hr style="width:100%; height:1px; background-color:gray; border:none;">
 
+<br><br>🤝 Open To Collaborate On<br>
+--
+-🤖 Open-source Full Stack projects<br> -📊 Data-driven solutions for real-world problems<br> -🧠Innovative AI fundamentals and applications<br> 
+<hr style="width:100%; height:1px; background-color:gray; border:none;">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritika-m-052934215/) 
