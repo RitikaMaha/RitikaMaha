@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritika Mahajan</h1>
 <h3 align="center">Keen on Artificial Intelligence,focused on upskilling and Passionate Programmer</h3>
 
-- 👋Welcome To my Github! **Passionate about Artificial Intelligenc.Hands-on experience in data analytics, full stack development. My journey portrays on building impactful and user-centric solutions.**
+- 👋Welcome To my Github!
+  **Passionate about Artificial Intelligenc.Hands-on experience in data analytics, full stack development. My journey portrays on building impactful and user-centric solutions.**
 
 - 🤝 Open to Collaborate **Open source full stack projects.**
 
