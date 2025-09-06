@@ -3,16 +3,15 @@
 
 <hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
-# 💫 About Me:
-👋 Welcome To my Github!  
---
+## 👋 Welcome To my Github!  
+
 Passionate about Artificial Intelligence. Hands-on experience in data analytics, full stack development.  
 My journey portrays on building impactful and user-centric solutions.
 
 <hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
 ## 🚀 About Me  
---
+
 - 💡 Machine Learning and AI Enthusiast  
 - 🌱 Currently exploring:  
   &nbsp;&nbsp;• Data analysis & visualization: **Numpy, Pandas, Seaborn, Matplotlib, Tableau**  
@@ -23,7 +22,7 @@ My journey portrays on building impactful and user-centric solutions.
 <hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
 ## 🤝 Open To Collaborate On  
---
+
 - 🤖 Open-source Full Stack projects  
 - 📊 Data-driven solutions for real-world problems  
 - 🧠 Innovative AI fundamentals and applications  
