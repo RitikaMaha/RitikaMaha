@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ritika Mahajan</h1>
 <h3 align="center">Keen in Artificial Intelligence| Focused on upskilling | Passionate Programmer</h3>
 
+<hr style="width:100%; height:1px; background-color:gray; border:none;">
+
 # 💫 About Me:
-👋Welcome To my Github! <br>Passionate about Artificial Intelligence. Hands-on experience in data analytics, full stack development. My journey portrays on building impactful and user-centric solutions.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br><br>🚀 About Me<br>•💡 Machine Learning and AI Enthusiast<br>•🌱 Currently exploring:<br>  &nbsp;&nbsp;•Data analysis & visualization: Numpy,Pandas, Seaborn, Matplotlib, Tableau<br>  &nbsp;&nbsp;•ML frameworks: TensorFlow, PyTorch, scikit-learn<br>  &nbsp;&nbsp;•Full stack development<br>  &nbsp;&nbsp;•DevOps and Cloud fundamentals<br><br><br><br><br>
+👋Welcome To my Github! 
+--
+<br>Passionate about Artificial Intelligence. Hands-on experience in data analytics, full stack development. My journey portrays on building impactful and user-centric solutions.
+
+<hr style="width:100%; height:1px; background-color:gray; border:none;">
+
+<br><br>🚀 About Me<br>
+--
+•💡 Machine Learning and AI Enthusiast<br>•🌱 Currently exploring:<br>  &nbsp;&nbsp;•Data analysis & visualization: Numpy,Pandas, Seaborn, Matplotlib, Tableau<br>  &nbsp;&nbsp;•ML frameworks: TensorFlow, PyTorch, scikit-learn<br>  &nbsp;&nbsp;•Full stack development<br>  &nbsp;&nbsp;•DevOps and Cloud fundamentals<br><br><br><br><br>
+<hr style="width:100%; height:1px; background-color:gray; border:none;">
 
 
 ## 🌐 Socials:
