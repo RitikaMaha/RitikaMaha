@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritika Mahajan</h1>
 <h3 align="center">Keen in Artificial Intelligence| Focused on upskilling | Passionate Programmer</h3>
 
-<hr style="width:100%; height:1px; background-color:gray; border:none; margin:10px 10px;">
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:0px 0px;">
 
 # 💫 About Me:
 👋Welcome To my Github! 
