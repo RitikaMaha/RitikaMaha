@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ritika Mahajan</h1>
 <h3 align="center">Keen in Artificial Intelligence| Focused on upskilling | Passionate Programmer</h3>
 
-<hr style="width:100%; height:1px; background-color:gray; border:none; margin:0px 0px;">
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
 # 💫 About Me:
 👋Welcome To my Github! 
 --
 <br>Passionate about Artificial Intelligence. Hands-on experience in data analytics, full stack development. My journey portrays on building impactful and user-centric solutions.
-<hr style="width:100%; height:1px; background-color:gray; border:none; margin:0px 0;">
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
 <br><br>🚀 About Me<br>
 --
