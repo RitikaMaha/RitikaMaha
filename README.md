@@ -1,43 +1,35 @@
 <h1 align="center">Hi 👋, I'm Ritika Mahajan</h1>
 <h3 align="center">Keen in Artificial Intelligence | Focused on upskilling | Passionate Programmer</h3>
 
-<!-- Divider -->
-<div style="border-top:1px solid gray; margin:5px 0;"></div>
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
-<p><b>👋 Welcome To my Github!</b></p>
-<p>
+# 💫 About Me:
+👋 Welcome To my Github!  
+--
 Passionate about Artificial Intelligence. Hands-on experience in data analytics, full stack development.  
 My journey portrays on building impactful and user-centric solutions.
-</p>
 
-<!-- Divider -->
-<div style="border-top:1px solid gray; margin:5px 0;"></div>
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
-<h3>🚀 About Me</h3>
-<ul>
-  <li>💡 Machine Learning and AI Enthusiast</li>
-  <li>🌱 Currently exploring:
-    <ul>
-      <li>Data analysis & visualization: <b>Numpy, Pandas, Seaborn, Matplotlib, Tableau</b></li>
-      <li>ML frameworks: <b>TensorFlow, PyTorch, scikit-learn</b></li>
-      <li>Full stack development</li>
-      <li>DevOps and Cloud fundamentals</li>
-    </ul>
-  </li>
-</ul>
+## 🚀 About Me  
+--
+- 💡 Machine Learning and AI Enthusiast  
+- 🌱 Currently exploring:  
+  &nbsp;&nbsp;• Data analysis & visualization: **Numpy, Pandas, Seaborn, Matplotlib, Tableau**  
+  &nbsp;&nbsp;• ML frameworks: **TensorFlow, PyTorch, scikit-learn**  
+  &nbsp;&nbsp;• Full stack development  
+  &nbsp;&nbsp;• DevOps and Cloud fundamentals  
 
-<!-- Divider -->
-<div style="border-top:1px solid gray; margin:5px 0;"></div>
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
 
-<h3>🤝 Open To Collaborate On</h3>
-<ul>
-  <li>🤖 Open-source Full Stack projects</li>
-  <li>📊 Data-driven solutions for real-world problems</li>
-  <li>🧠 Innovative AI fundamentals and applications</li>
-</ul>
+## 🤝 Open To Collaborate On  
+--
+- 🤖 Open-source Full Stack projects  
+- 📊 Data-driven solutions for real-world problems  
+- 🧠 Innovative AI fundamentals and applications  
 
-<!-- Divider -->
-<div style="border-top:1px solid gray; margin:5px 0;"></div>
+<hr style="width:100%; height:1px; background-color:gray; border:none; margin:5px 0;">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritika-m-052934215/) 
